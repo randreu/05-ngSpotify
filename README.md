@@ -5,4 +5,4 @@ The new/modified files are
 
 * localproxy.js
 * package.json
-* app/services/github.service.ts
+* app/services/spotify.service.ts
